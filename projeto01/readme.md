@@ -1,5 +1,4 @@
-# Treinamento Python
+## Treinamento Python
+Neste diretório vou fazer alguns projetos em Python pra treinar a linguagem.
 
-## Introdução
-
-<p>O Python é uma linguagem de programação muito versátil.
+Estou usando o VS code como editor de código.
