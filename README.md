@@ -1,3 +1,13 @@
+
+# Olá Mundo!
+ <p>Sou Régis Lima, Atualmente Trabalho como Assistente Administrativo em uma Fundação Estadual de Amparo à Pesquisa. Estou aprendendo Python e outras ferramentas como um diferencial profisional. </p> 
+
+---
+
+[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/regislfreire/)
+[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:cawyn2@gmail.com)
+[![instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/regislfreire/)
+
 <div align="center">
 
 ![stats graph](https://github-readme-stats.vercel.app/api?username=regislfreire&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-pt&hide_border=false)
@@ -13,6 +23,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo" /></div>
 
 ---
-[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/regislfreire/)
-[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:cawyn2@gmail.com)
-[![instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/regislfreire/)
