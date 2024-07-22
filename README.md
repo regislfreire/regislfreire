@@ -1,4 +1,4 @@
-<p>Sou formado em Gestão de Políticas Públicas pela Universidade Feredal do Ceará (UFC),  Atualmente Trabalho como Assistente Administrativo em uma Fundação Estadual de Amparo à Pesquisa. Estou aprendendo Python e outras ferramentas como um diferencial profisional. </p> 
+<p>Sou formado em Gestão de Políticas Públicas pela Universidade Feredal do Ceará (UFC) e cursnado Especialização em Orçamento Público e Gestão Fiscal Responsável pela Faculdade Estácio,  Trabalhei como Assistente Administrativo na Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico do Ceará (FUNCAP) na Gerencia de Programa de Inovação. Decidi aprender Python e outras ferramentas ageis como um diferencial profisional. </p> 
 <hr>
 
 [![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:regislfreire@gmail.com)
