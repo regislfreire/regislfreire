@@ -1,8 +1,7 @@
-<h1> Olá Mundo!</h1>
-<p>Sou Régis Lima, Atualmente Trabalho como Assistente Administrativo em uma Fundação Estadual de Amparo à Pesquisa. Estou aprendendo Python e outras ferramentas como um diferencial profisional. </p> 
+<p>Sou formado em Gestão de Políticas Públicas pela Universidade Feredal do Ceará (UFC),  Atualmente Trabalho como Assistente Administrativo em uma Fundação Estadual de Amparo à Pesquisa. Estou aprendendo Python e outras ferramentas como um diferencial profisional. </p> 
 <hr>
 
-[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:cawyn2@gmail.com)
+[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:regislfreire@gmail.com)
 [![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/regislfreire/)
 [![instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/regislfreire/)
 [![WhatsApp logo](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsApp&label=&color=00a884&logoColor=white&labelColor=&style=for-the-badge)](https://api.whatsapp.com/send?phone=5585997392503/)
